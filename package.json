@@ -1,0 +1,22 @@
+{
+  "name": "lulo_packet",
+  "version": "1.0.0",
+  "description": "Simple packet to learn publish npm packet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lulo97/learn-npm-puslish.git"
+  },
+  "keywords": [
+    "LULO97"
+  ],
+  "author": "Lulo97",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lulo97/learn-npm-puslish/issues"
+  },
+  "homepage": "https://github.com/lulo97/learn-npm-puslish#readme"
+}
